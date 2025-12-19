@@ -1,4 +1,4 @@
-## SMS-Controlled Door Buzzer (ESP32 + Cloudflare + Twilio)
+## SMS-Controlled Door Buzzer
 
 A Wi-Fi enabled project that allows a physical door buzzer to be pressed remotely by sending a text message.
 Built using an ESP32-S3 microcontroller, a servo motor, a Cloudflare Worker relay, and Twilio SMS.
