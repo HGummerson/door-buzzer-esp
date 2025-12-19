@@ -27,7 +27,7 @@ The system is designed to:
 
 # System Architecture
 
-<img width="442" height="376" alt="architecture" src="https://github.com/user-attachments/assets/3e294833-ba0d-46bb-a3ca-47c1ea17db1f" />
+<img width="237" height="762" alt="arch drawio" src="https://github.com/user-attachments/assets/b16c6b05-355f-4d4d-b04b-ed42443df363" />
 
 <img width="493" height="495" alt="esp32-wiring" src="https://github.com/user-attachments/assets/12c5ebc2-e4f2-4ce1-9799-99f5c0f5b1aa" />
 
